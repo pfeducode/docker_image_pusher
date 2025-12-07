@@ -1,9 +1,9 @@
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 mysql:5.7.44
 nginx
 nacos/nacos-server:v3.1.0
 redis:6.2.18
+nacos:v2.4.3
